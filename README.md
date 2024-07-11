@@ -24,3 +24,5 @@ An RFM report is a way of segmenting customers using three metrics;
 -Frequency (How often the customers purchase from us).
 
 -Monetary Value (How much a customer spends).
+
+

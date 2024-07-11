@@ -19,7 +19,7 @@ It is an indexing technique that uses past purchase behaviour to segment custome
 
 An RFM report is a way of segmenting customers using three metrics;
 
-Recency (How long ago was the customer’s last purchase).
+-Recency (How long ago was the customer’s last purchase).
 
 -Frequency (How often the customers purchase from us).
 

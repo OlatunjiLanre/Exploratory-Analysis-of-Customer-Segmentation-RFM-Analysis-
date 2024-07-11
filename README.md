@@ -15,7 +15,10 @@ The organization is looking to lunch a new campaign on all products. We need you
 
 #### What is **RFM** Analysis?
 RFM Analysis stands for Recency, Frequency and Monetary.
-It is an indexing technique that uses past purchase behaviour to segment customers. An RFM report is a way of segmenting customers using three metrics;
--Recency (How long ago was the customer’s last purchase).
+It is an indexing technique that uses past purchase behaviour to segment customers. 
+
+An RFM report is a way of segmenting customers using three metrics;
+
+Recency (How long ago was the customer’s last purchase).
 -Frequency (How often the customers purchase from us).
 -Monetary Value (How much a customer spends).

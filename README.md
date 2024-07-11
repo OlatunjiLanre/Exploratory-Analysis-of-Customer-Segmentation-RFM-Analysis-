@@ -1,9 +1,20 @@
 # Exploratory-Analysis-of-Customer-Segmentation-RFM-Analysis-
 
 
-### What is RFM Analysis?
+### Business Request?
 
-RRM Analysis also known as Customer Segmentation is a marketing technique used to quantitatively rank and group customers based on there Recency, Frequency and Monetary total of there transaction to identify the best set of customers and perform targeted marketing campaigns.
-RFM model also helps to enables you to get a holistic view of your new and existing customers. Hence, creating strategies to maximize the lifetime value of your customers. 
+The organization is looking to lunch a new campaign on all products. We need you to segment our customers by finding the best and the worse group of customers for the campaign.
 
-On this project, I gave a step by step guide on how I carried out RFM Analysis (Customer segmentation) in SQL (MS SQL).
+### Stakeholders Requirements?
+
+1. Segment customers based on transaction history.
+2. Identify top customers for targeted marketing.
+3. Gain insights into customer segmentation to inform strategic decisions
+
+**Technique Used:** **RFM** Analysis
+What is **RFM** Analysis?
+**RFM** Analysis stands for Recency, Frequency and Monetary.
+It is an indexing technique that uses past purchase behaviour to segment customers. An RFM report is a way of segmenting customers using three metrics;
+-Recency (How long ago was the customer’s last purchase).
+-Frequency (How often the customers purchase from us).
+-Monetary Value (How much a customer spends).

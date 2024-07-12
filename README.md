@@ -129,19 +129,33 @@ While 10% of the our customers are lost.
 
 
 ***High Engagement and High Value***
+
 • Segments: Champions, Loyal Customers, Can Not Lose Them
+
 • Strategies: Reward loyalty, encourage advocacy, provide premium service
+
 ***Moderate Engagement and Moderate Potential***
+
 • Segments: Potential Loyalist, Promising, Need Attention
+
 • Strategies: Offer loyalty programs, regular engagement, exclusive previews
+
 ***Recently Acquired Customers***
+
 • Segments: New Customers
+
 • Strategies: Onboarding campaigns, encourage reviews, personalized recommendations
+
 ***Low Engagement and At Risk of Churning***
+
 • Segments: At Risk, About to Sleep
+
 • Strategies: Urgent offers, understand and address issues, substantial discounts
+
 ***Inactive or Lapsed Customers***
+
 • Segments: Hibernating Customers, Lost Customers
+
 • Strategies: Reactivation campaigns, conduct surveys, provide special deals
 
 

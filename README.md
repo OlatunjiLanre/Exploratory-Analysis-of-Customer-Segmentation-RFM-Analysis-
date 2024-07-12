@@ -115,7 +115,7 @@ RFM_Segment AS (
 
 ```
 
-<img src="https://github.com/DanielBayo/AdventureWork_SQL_Analysis/blob/main/Adventure_logo.png" alt="AdventureWorks" width="400"/>
+![RFM Screenshot](https://github.com/OlatunjiLanre/Exploratory-Analysis-of-Customer-Segmentation-RFM-Analysis-/blob/main/8.JPG)
 
 
 ### Key Insight 

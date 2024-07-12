@@ -116,5 +116,31 @@ RFM_Segment AS (
 ```
 
 
+### Key Insight 
+
+Champion and loyal customers are our top customers that have purchased an average of 100 times during the evaluation period, spending an average of $156,569 and have purchased in recent days.
+While potential and promising customer have purchased an average of 50 times and have spent an average of $100,000 in the last 34days.
+New Customers, Need Attention, About to Sleep, At Risk, Can not Lose, and Hibernating customers accounted for 48.8% of the total customers.
+While 10% of the our customers are lost.
+
+### Recommendations
+
+
+***High Engagement and High Value***
+• Segments: Champions, Loyal Customers, Can Not Lose Them
+• Strategies: Reward loyalty, encourage advocacy, provide premium service
+***Moderate Engagement and Moderate Potential***
+• Segments: Potential Loyalist, Promising, Need Attention
+• Strategies: Offer loyalty programs, regular engagement, exclusive previews
+***Recently Acquired Customers***
+• Segments: New Customers
+• Strategies: Onboarding campaigns, encourage reviews, personalized recommendations
+***Low Engagement and At Risk of Churning***
+• Segments: At Risk, About to Sleep
+• Strategies: Urgent offers, understand and address issues, substantial discounts
+***Inactive or Lapsed Customers***
+• Segments: Hibernating Customers, Lost Customers
+• Strategies: Reactivation campaigns, conduct surveys, provide special deals
+
 
 
